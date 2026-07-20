@@ -1,1 +1,5 @@
-hello present
+<<<<<<< HEAD
+hello present in future
+=======
+hello future
+>>>>>>> present in present
